@@ -1,5 +1,7 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
+## Name:  RAMASRI K
+## Register number : 212224040267
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -28,14 +30,14 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1600" height="847" alt="554602513-1108e984-701c-4d4a-b873-6561d38798ad" src="https://github.com/user-attachments/assets/2477f34e-7fdf-4670-8b5c-271a21df01ab" />
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1600" height="730" alt="554602584-7fccc340-fb4b-4765-a79a-66142a44d990" src="https://github.com/user-attachments/assets/b9f59e23-561d-4f3e-8b8d-61a8962e529a" />
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,8 +45,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
-
+<img width="1600" height="720" alt="554602719-b95a4051-bef2-4010-ba1c-3c7c5b83b015" src="https://github.com/user-attachments/assets/2ad32dd8-fdb0-4b3e-8496-53919041ce0a" />
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
